@@ -32,7 +32,7 @@
 
 * **下载vimrc 文件到用户主目录**
 
-    `wget https://raw.githubusercontent.com/tao12345666333/vim/master/vimrc -O $HOME/.vimrc`
+    `wget https://raw.githubusercontent.com/hbshun/vim/master/vimrc -O $HOME/.vimrc`
 
 * **打开 Vim**
 

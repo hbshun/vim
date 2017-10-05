@@ -34,7 +34,7 @@
 
 * **Download vimrc file to user home directory**
 
-    `wget https://raw.githubusercontent.com/tao12345666333/vim/master/vimrc -O $HOME/.vimrc`
+    `wget https://raw.githubusercontent.com/hbshun/vim/master/vimrc -O $HOME/.vimrc`
 
 * **Open Vim**
 

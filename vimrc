@@ -200,6 +200,7 @@ syntax on
 
 " show line numbers
 set nu
+set relativenumber
 
 " tab navigation mappings
 map tn :tabn<CR>
